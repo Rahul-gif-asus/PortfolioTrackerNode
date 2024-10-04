@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Tracker Logs</title>
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+    <style>
+        #logs {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 10px;
+            border: 1px solid #ccc;
+            height: 400px;
+            overflow-y: auto;
+            font-family: monospace;
+            background-color: #f9f9f9;
+        }
+        .log-entry {
+            margin: 5px 0;
+            padding: 5px;
+            border-bottom: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h2 style="text-align: center;">Portfolio Update Logs</h2>
+    <button onclick="startUpdate()">Start Portfolio Update</button>
+    <div id="logs"></div>
+
+    <script>
+        const socket = io('http://localhost:3000');
+
+        socket.on('connect', () => {
+            console.log('Connected to server');
+        });
+
+        socket.on('log', (message) => {
+            const logsDiv = document.getElementById('logs');
+            const logMessage = document.createElement('div');
+            logMessage.className = 'log-entry';
+            logMessage.textContent = message;
+            logsDiv.appendChild(logMessage);
+            logsDiv.scrollTop = logsDiv.scrollHeight;  // Scroll to the bottom for latest logs
+        });
+
+        socket.on('updateComplete', (data) => {
+            const logsDiv = document.getElementById('logs');
+            const logMessage = document.createElement('div');
+            logMessage.className = 'log-entry';
+            logMessage.style.fontWeight = 'bold';
+            logMessage.textContent = 'Update Complete: ' + data.message;
+            logsDiv.appendChild(logMessage);
+        });
+
+        socket.on('updateError', (error) => {
+            const logsDiv = document.getElementById('logs');
+            const logMessage = document.createElement('div');
+            logMessage.className = 'log-entry';
+            logMessage.style.color = 'red';
+            logMessage.textContent = 'Error: ' + error.message;
+            logsDiv.appendChild(logMessage);
+        });
+
+        function startUpdate() {
+            socket.emit('startPortfolioUpdate');
+        }
+    </script>
+</body>
+</html>
