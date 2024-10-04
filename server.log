@@ -1,0 +1,172 @@
+[2024-10-04 23:00:14] Server running on http://localhost:3000
+[2024-10-04 23:00:18] Starting the portfolio update process for all users...
+[2024-10-04 23:00:18] Logging in and fetching portfolio data...
+[2024-10-04 23:00:18] Logging in and fetching portfolio data...
+[2024-10-04 23:00:19] Successfully logged in as RAHUL  VISHWAKARMA with client code R50827994
+[2024-10-04 23:00:19] Fetching user holdings for RAHUL  VISHWAKARMA with client code R50827994...
+[2024-10-04 23:00:20] Successfully logged in as JYOTI DASHRATH VISHWAKARMA with client code J55671440
+[2024-10-04 23:00:20] Fetching user holdings for JYOTI DASHRATH VISHWAKARMA with client code J55671440...
+[2024-10-04 23:00:20] Holdings fetched: 7 stocks for RAHUL  VISHWAKARMA
+[2024-10-04 23:00:20] Client R50827994 found in the database.
+[2024-10-04 23:00:20] Processing stock: IRFC-EQ
+[2024-10-04 23:00:20] Stock IRFC-EQ was held from previous days. Calculated today_gain: 35.719999999999914
+[2024-10-04 23:00:20] Ensuring stock IRFC-EQ has entry for 04-10-2024
+[2024-10-04 23:00:20] Successfully added or updated stock IRFC-EQ for 04-10-2024
+[2024-10-04 23:00:20] Processing stock: RHETAN
+[2024-10-04 23:00:20] Stock RHETAN was held from previous days. Calculated today_gain: 15.300000000000036
+[2024-10-04 23:00:20] Ensuring stock RHETAN has entry for 04-10-2024
+[2024-10-04 23:00:21] Successfully added or updated stock RHETAN for 04-10-2024
+[2024-10-04 23:00:21] Processing stock: IOC-EQ
+[2024-10-04 23:00:21] Stock IOC-EQ was held from previous days. Calculated today_gain: -18.760000000000048
+[2024-10-04 23:00:21] Ensuring stock IOC-EQ has entry for 04-10-2024
+[2024-10-04 23:00:21] Successfully added or updated stock IOC-EQ for 04-10-2024
+[2024-10-04 23:00:21] Processing stock: RVNL-EQ
+[2024-10-04 23:00:21] Stock RVNL-EQ was held from previous days. Calculated today_gain: -112.70000000000016
+[2024-10-04 23:00:21] Ensuring stock RVNL-EQ has entry for 04-10-2024
+[2024-10-04 23:00:21] Successfully added or updated stock RVNL-EQ for 04-10-2024
+[2024-10-04 23:00:21] Processing stock: MAHABANK-EQ
+[2024-10-04 23:00:21] Stock MAHABANK-EQ was held from previous days. Calculated today_gain: -0.8000000000000043
+[2024-10-04 23:00:21] Ensuring stock MAHABANK-EQ has entry for 04-10-2024
+[2024-10-04 23:00:21] Successfully added or updated stock MAHABANK-EQ for 04-10-2024
+[2024-10-04 23:00:21] Processing stock: AARTIDRUGS-EQ
+[2024-10-04 23:00:21] Stock AARTIDRUGS-EQ was held from previous days. Calculated today_gain: 2.1499999999999773
+[2024-10-04 23:00:21] Ensuring stock AARTIDRUGS-EQ has entry for 04-10-2024
+[2024-10-04 23:00:21] Successfully added or updated stock AARTIDRUGS-EQ for 04-10-2024
+[2024-10-04 23:00:21] Processing stock: NHPC-EQ
+[2024-10-04 23:00:21] Stock NHPC-EQ was held from previous days. Calculated today_gain: 0.21000000000000796
+[2024-10-04 23:00:21] Ensuring stock NHPC-EQ has entry for 04-10-2024
+[2024-10-04 23:00:21] Successfully added or updated stock NHPC-EQ for 04-10-2024
+[2024-10-04 23:00:21] Updating total portfolio for R50827994 on 04-10-2024
+[2024-10-04 23:00:21] Total portfolio gain today for RAHUL  VISHWAKARMA: -78.88000000000028
+[2024-10-04 23:00:27] Error fetching holdings data for JYOTI DASHRATH VISHWAKARMA: Error: Holdings data is undefined or unavailable for JYOTI DASHRATH VISHWAKARMA
+[2024-10-04 23:05:52] Server running on http://localhost:3000
+[2024-10-04 23:05:56] Starting the portfolio update process for all users...
+[2024-10-04 23:05:56] Logging in and fetching portfolio data...
+[2024-10-04 23:05:56] Logging in and fetching portfolio data...
+[2024-10-04 23:05:57] Successfully logged in as RAHUL  VISHWAKARMA with client code R50827994
+[2024-10-04 23:05:57] Fetching user holdings for RAHUL  VISHWAKARMA with client code R50827994...
+[2024-10-04 23:05:57] Successfully logged in as JYOTI DASHRATH VISHWAKARMA with client code J55671440
+[2024-10-04 23:05:57] Fetching user holdings for JYOTI DASHRATH VISHWAKARMA with client code J55671440...
+[2024-10-04 23:05:57] Holdings fetched: 7 stocks for RAHUL  VISHWAKARMA
+[2024-10-04 23:05:58] Client R50827994 found in the database.
+[2024-10-04 23:05:58] Processing stock: MAHABANK-EQ
+[2024-10-04 23:05:58] Stock MAHABANK-EQ was held from previous days. Calculated today_gain: -0.8000000000000043
+[2024-10-04 23:05:58] Ensuring stock MAHABANK-EQ has entry for 04-10-2024
+[2024-10-04 23:05:58] Successfully added or updated stock MAHABANK-EQ for 04-10-2024
+[2024-10-04 23:05:58] Processing stock: AARTIDRUGS-EQ
+[2024-10-04 23:05:58] Stock AARTIDRUGS-EQ was held from previous days. Calculated today_gain: 2.1499999999999773
+[2024-10-04 23:05:58] Ensuring stock AARTIDRUGS-EQ has entry for 04-10-2024
+[2024-10-04 23:05:58] Holdings fetched: 5 stocks for JYOTI DASHRATH VISHWAKARMA
+[2024-10-04 23:05:58] Successfully added or updated stock AARTIDRUGS-EQ for 04-10-2024
+[2024-10-04 23:05:58] Processing stock: NHPC-EQ
+[2024-10-04 23:05:58] Stock NHPC-EQ was held from previous days. Calculated today_gain: 0.21000000000000796
+[2024-10-04 23:05:58] Ensuring stock NHPC-EQ has entry for 04-10-2024
+[2024-10-04 23:05:58] Successfully added or updated stock NHPC-EQ for 04-10-2024
+[2024-10-04 23:05:58] Processing stock: IRFC-EQ
+[2024-10-04 23:05:58] Stock IRFC-EQ was held from previous days. Calculated today_gain: 35.719999999999914
+[2024-10-04 23:05:58] Ensuring stock IRFC-EQ has entry for 04-10-2024
+[2024-10-04 23:05:58] Successfully added or updated stock IRFC-EQ for 04-10-2024
+[2024-10-04 23:05:58] Processing stock: RHETAN
+[2024-10-04 23:05:58] Stock RHETAN was held from previous days. Calculated today_gain: 15.300000000000036
+[2024-10-04 23:05:58] Ensuring stock RHETAN has entry for 04-10-2024
+[2024-10-04 23:05:58] Successfully added or updated stock RHETAN for 04-10-2024
+[2024-10-04 23:05:58] Processing stock: IOC-EQ
+[2024-10-04 23:05:58] Stock IOC-EQ was held from previous days. Calculated today_gain: -18.760000000000048
+[2024-10-04 23:05:58] Ensuring stock IOC-EQ has entry for 04-10-2024
+[2024-10-04 23:05:58] Successfully added or updated stock IOC-EQ for 04-10-2024
+[2024-10-04 23:05:58] Processing stock: RVNL-EQ
+[2024-10-04 23:05:58] Stock RVNL-EQ was held from previous days. Calculated today_gain: -112.70000000000016
+[2024-10-04 23:05:58] Ensuring stock RVNL-EQ has entry for 04-10-2024
+[2024-10-04 23:05:58] Successfully added or updated stock RVNL-EQ for 04-10-2024
+[2024-10-04 23:05:58] Updating total portfolio for R50827994 on 04-10-2024
+[2024-10-04 23:05:58] Total portfolio gain today for RAHUL  VISHWAKARMA: -78.88000000000028
+[2024-10-04 23:05:59] Client J55671440 found in the database.
+[2024-10-04 23:05:59] Processing stock: AARTIDRUGS-EQ
+[2024-10-04 23:05:59] Stock AARTIDRUGS-EQ was held from previous days. Calculated today_gain: 2.1499999999999773
+[2024-10-04 23:05:59] Ensuring stock AARTIDRUGS-EQ has entry for 04-10-2024
+[2024-10-04 23:05:59] Successfully added or updated stock AARTIDRUGS-EQ for 04-10-2024
+[2024-10-04 23:05:59] Processing stock: IRFC-EQ
+[2024-10-04 23:05:59] Stock IRFC-EQ was held from previous days. Calculated today_gain: 17.389999999999958
+[2024-10-04 23:05:59] Ensuring stock IRFC-EQ has entry for 04-10-2024
+[2024-10-04 23:05:59] Successfully added or updated stock IRFC-EQ for 04-10-2024
+[2024-10-04 23:05:59] Processing stock: BEL-EQ
+[2024-10-04 23:05:59] Stock BEL-EQ was held from previous days. Calculated today_gain: -6
+[2024-10-04 23:05:59] Ensuring stock BEL-EQ has entry for 04-10-2024
+[2024-10-04 23:05:59] Successfully added or updated stock BEL-EQ for 04-10-2024
+[2024-10-04 23:05:59] Processing stock: BAJAJHFL-EQ
+[2024-10-04 23:05:59] Stock BAJAJHFL-EQ was held from previous days. Calculated today_gain: 0
+[2024-10-04 23:05:59] Ensuring stock BAJAJHFL-EQ has entry for 04-10-2024
+[2024-10-04 23:05:59] Successfully added or updated stock BAJAJHFL-EQ for 04-10-2024
+[2024-10-04 23:05:59] Processing stock: RVNL-EQ
+[2024-10-04 23:05:59] Stock RVNL-EQ was held from previous days. Calculated today_gain: -32.200000000000045
+[2024-10-04 23:05:59] Ensuring stock RVNL-EQ has entry for 04-10-2024
+[2024-10-04 23:05:59] Successfully added or updated stock RVNL-EQ for 04-10-2024
+[2024-10-04 23:05:59] Updating total portfolio for J55671440 on 04-10-2024
+[2024-10-04 23:05:59] Total portfolio gain today for JYOTI DASHRATH VISHWAKARMA: -18.66000000000011
+[2024-10-04 23:13:54] Server running on http://localhost:3000
+[2024-10-04 23:14:04] Server running on http://localhost:3000
+[2024-10-04 23:16:29] Server running on http://localhost:3000
+[2024-10-04 23:19:33] Server running on http://localhost:3000
+[2024-10-04 23:19:35] Starting the portfolio update process for all users...
+[2024-10-04 23:19:35] Logging in and fetching portfolio data...
+[2024-10-04 23:19:35] Logging in and fetching portfolio data...
+[2024-10-04 23:19:36] Successfully logged in as JYOTI DASHRATH VISHWAKARMA with client code J55671440
+[2024-10-04 23:19:36] Fetching user holdings for JYOTI DASHRATH VISHWAKARMA with client code J55671440...
+[2024-10-04 23:19:36] Successfully logged in as RAHUL  VISHWAKARMA with client code R50827994
+[2024-10-04 23:19:36] Fetching user holdings for RAHUL  VISHWAKARMA with client code R50827994...
+[2024-10-04 23:19:36] Holdings fetched: 7 stocks for RAHUL  VISHWAKARMA
+[2024-10-04 23:19:36] Holdings fetched: 5 stocks for JYOTI DASHRATH VISHWAKARMA
+[2024-10-04 23:19:36] Client R50827994 found in the database.
+[2024-10-04 23:19:36] Processing stock: NHPC-EQ
+[2024-10-04 23:19:36] Stock NHPC-EQ was held from previous days. Calculated today_gain: 0.21000000000000796
+[2024-10-04 23:19:36] Ensuring stock NHPC-EQ has entry for 04-10-2024
+[2024-10-04 23:19:36] Successfully added or updated stock NHPC-EQ for 04-10-2024
+[2024-10-04 23:19:36] Processing stock: IRFC-EQ
+[2024-10-04 23:19:36] Stock IRFC-EQ was held from previous days. Calculated today_gain: 35.719999999999914
+[2024-10-04 23:19:36] Ensuring stock IRFC-EQ has entry for 04-10-2024
+[2024-10-04 23:19:37] Successfully added or updated stock IRFC-EQ for 04-10-2024
+[2024-10-04 23:19:37] Processing stock: RHETAN
+[2024-10-04 23:19:37] Stock RHETAN was held from previous days. Calculated today_gain: 15.300000000000036
+[2024-10-04 23:19:37] Ensuring stock RHETAN has entry for 04-10-2024
+[2024-10-04 23:19:37] Successfully added or updated stock RHETAN for 04-10-2024
+[2024-10-04 23:19:37] Processing stock: IOC-EQ
+[2024-10-04 23:19:37] Stock IOC-EQ was held from previous days. Calculated today_gain: -18.760000000000048
+[2024-10-04 23:19:37] Ensuring stock IOC-EQ has entry for 04-10-2024
+[2024-10-04 23:19:37] Successfully added or updated stock IOC-EQ for 04-10-2024
+[2024-10-04 23:19:37] Processing stock: RVNL-EQ
+[2024-10-04 23:19:37] Stock RVNL-EQ was held from previous days. Calculated today_gain: -112.70000000000016
+[2024-10-04 23:19:37] Ensuring stock RVNL-EQ has entry for 04-10-2024
+[2024-10-04 23:19:37] Successfully added or updated stock RVNL-EQ for 04-10-2024
+[2024-10-04 23:19:37] Processing stock: MAHABANK-EQ
+[2024-10-04 23:19:37] Stock MAHABANK-EQ was held from previous days. Calculated today_gain: -0.8000000000000043
+[2024-10-04 23:19:37] Ensuring stock MAHABANK-EQ has entry for 04-10-2024
+[2024-10-04 23:19:37] Successfully added or updated stock MAHABANK-EQ for 04-10-2024
+[2024-10-04 23:19:37] Processing stock: AARTIDRUGS-EQ
+[2024-10-04 23:19:37] Stock AARTIDRUGS-EQ was held from previous days. Calculated today_gain: 2.1499999999999773
+[2024-10-04 23:19:37] Ensuring stock AARTIDRUGS-EQ has entry for 04-10-2024
+[2024-10-04 23:19:37] Client J55671440 found in the database.
+[2024-10-04 23:19:37] Processing stock: BEL-EQ
+[2024-10-04 23:19:37] Stock BEL-EQ was held from previous days. Calculated today_gain: -6
+[2024-10-04 23:19:37] Ensuring stock BEL-EQ has entry for 04-10-2024
+[2024-10-04 23:19:37] Successfully added or updated stock BEL-EQ for 04-10-2024
+[2024-10-04 23:19:37] Processing stock: BAJAJHFL-EQ
+[2024-10-04 23:19:37] Stock BAJAJHFL-EQ was held from previous days. Calculated today_gain: 0
+[2024-10-04 23:19:37] Ensuring stock BAJAJHFL-EQ has entry for 04-10-2024
+[2024-10-04 23:19:37] Successfully added or updated stock BAJAJHFL-EQ for 04-10-2024
+[2024-10-04 23:19:37] Processing stock: RVNL-EQ
+[2024-10-04 23:19:37] Stock RVNL-EQ was held from previous days. Calculated today_gain: -32.200000000000045
+[2024-10-04 23:19:37] Ensuring stock RVNL-EQ has entry for 04-10-2024
+[2024-10-04 23:19:37] Successfully added or updated stock RVNL-EQ for 04-10-2024
+[2024-10-04 23:19:37] Processing stock: AARTIDRUGS-EQ
+[2024-10-04 23:19:37] Stock AARTIDRUGS-EQ was held from previous days. Calculated today_gain: 2.1499999999999773
+[2024-10-04 23:19:37] Ensuring stock AARTIDRUGS-EQ has entry for 04-10-2024
+[2024-10-04 23:19:37] Successfully added or updated stock AARTIDRUGS-EQ for 04-10-2024
+[2024-10-04 23:19:37] Processing stock: IRFC-EQ
+[2024-10-04 23:19:37] Stock IRFC-EQ was held from previous days. Calculated today_gain: 17.389999999999958
+[2024-10-04 23:19:37] Ensuring stock IRFC-EQ has entry for 04-10-2024
+[2024-10-04 23:19:37] Successfully added or updated stock IRFC-EQ for 04-10-2024
+[2024-10-04 23:19:37] Updating total portfolio for J55671440 on 04-10-2024
+[2024-10-04 23:19:37] Total portfolio gain today for JYOTI DASHRATH VISHWAKARMA: -18.66000000000011
+[2024-10-04 23:19:37] Successfully added or updated stock AARTIDRUGS-EQ for 04-10-2024
+[2024-10-04 23:19:37] Updating total portfolio for R50827994 on 04-10-2024
+[2024-10-04 23:19:38] Total portfolio gain today for RAHUL  VISHWAKARMA: -78.88000000000028
